@@ -1,0 +1,14 @@
+# Indentation settings
+indent_width = 4                
+indent_type = "Tabs"          
+column_width = 150           
+
+# Quotes preferences
+quote_style = "AutoPreferSingle"
+
+# Call style preferences
+call_parentheses = "Always"
+collapse_simple_statement = "Always"
+
+# Table formatting
+line_endings = "Unix"            
